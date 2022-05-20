@@ -1,2 +1,2 @@
- tourism
- school
+# tourism
+# school
